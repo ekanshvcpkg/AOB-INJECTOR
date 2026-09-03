@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Free Fire UB Scanner & Replacer
+# 🕵️‍♂️ AOB Scanner & Replacer
 ### *A Beginner's Gateway to Windows Memory Manipulation*
 
 <img width="1536" height="1024" alt="ChatGPT Image Aug 25, 2026 at 11_45_45 PM" src="https://github.com/user-attachments/assets/6c0c475f-5628-42f2-a4be-3460891a9b5a" />
